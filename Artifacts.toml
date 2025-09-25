@@ -1,0 +1,86 @@
+[[GAP_pkg_fplsa]]
+arch = "aarch64"
+git-tree-sha1 = "01befe702e56500a83fd5abaf30c328d0a2dbb57"
+os = "macos"
+
+    [[GAP_pkg_fplsa.download]]
+    sha256 = "992c5a13f8436c2cd6672601458dcf0f3f685e1837f066f404529ee6393704e6"
+    url = "https://github.com/lgoettgens/GAP_pkg_fplsa_jll.jl/releases/download/GAP_pkg_fplsa-v101.20700.0+0/GAP_pkg_fplsa.v101.20700.0.aarch64-apple-darwin.tar.gz"
+[[GAP_pkg_fplsa]]
+arch = "aarch64"
+git-tree-sha1 = "9134671f5d542f79c54c7ce06656abf71a934ba3"
+libc = "glibc"
+os = "linux"
+
+    [[GAP_pkg_fplsa.download]]
+    sha256 = "492ca2c1316c6103c5ce65e12ae46394fe5c489bb7e17cd0dfa7b78d47f2cd85"
+    url = "https://github.com/lgoettgens/GAP_pkg_fplsa_jll.jl/releases/download/GAP_pkg_fplsa-v101.20700.0+0/GAP_pkg_fplsa.v101.20700.0.aarch64-linux-gnu.tar.gz"
+[[GAP_pkg_fplsa]]
+arch = "aarch64"
+git-tree-sha1 = "1051e7fce1d7bf2aef281d49881268dbe0c708a1"
+libc = "musl"
+os = "linux"
+
+    [[GAP_pkg_fplsa.download]]
+    sha256 = "b97e54684aa9f227b62ce0347ac45ecc8434ecd8e3623624eb77afbee8f09a1b"
+    url = "https://github.com/lgoettgens/GAP_pkg_fplsa_jll.jl/releases/download/GAP_pkg_fplsa-v101.20700.0+0/GAP_pkg_fplsa.v101.20700.0.aarch64-linux-musl.tar.gz"
+[[GAP_pkg_fplsa]]
+arch = "aarch64"
+git-tree-sha1 = "e7c08226303a6623de9e8392c5135b0cec0c1d5b"
+os = "freebsd"
+
+    [[GAP_pkg_fplsa.download]]
+    sha256 = "13ce3abf18031c4bfe112b77f4f286beb466f2336ce08e57237b437dae6b48d1"
+    url = "https://github.com/lgoettgens/GAP_pkg_fplsa_jll.jl/releases/download/GAP_pkg_fplsa-v101.20700.0+0/GAP_pkg_fplsa.v101.20700.0.aarch64-unknown-freebsd.tar.gz"
+[[GAP_pkg_fplsa]]
+arch = "powerpc64le"
+git-tree-sha1 = "901a784c361bdd750056d792c6fea0f16da20fe0"
+libc = "glibc"
+os = "linux"
+
+    [[GAP_pkg_fplsa.download]]
+    sha256 = "077fd68f35f53dc46716346ab6b0f4eb8bca63957f9bf2e3dbfad2629514add8"
+    url = "https://github.com/lgoettgens/GAP_pkg_fplsa_jll.jl/releases/download/GAP_pkg_fplsa-v101.20700.0+0/GAP_pkg_fplsa.v101.20700.0.powerpc64le-linux-gnu.tar.gz"
+[[GAP_pkg_fplsa]]
+arch = "riscv64"
+git-tree-sha1 = "5c52f06b39916098a79212a54da0789ecb84a8b6"
+libc = "glibc"
+os = "linux"
+
+    [[GAP_pkg_fplsa.download]]
+    sha256 = "6e81868efff5020738de3d83e56f43256d3b499de01272338ab8f3bb687b1013"
+    url = "https://github.com/lgoettgens/GAP_pkg_fplsa_jll.jl/releases/download/GAP_pkg_fplsa-v101.20700.0+0/GAP_pkg_fplsa.v101.20700.0.riscv64-linux-gnu.tar.gz"
+[[GAP_pkg_fplsa]]
+arch = "x86_64"
+git-tree-sha1 = "4d3b421bde1c60aa34e7f6fd8cacbc09e3766732"
+os = "macos"
+
+    [[GAP_pkg_fplsa.download]]
+    sha256 = "9c3b5096791e8fc32a6af37fd2bca2caca7f0c15ce7b89047659f6a96f42adfb"
+    url = "https://github.com/lgoettgens/GAP_pkg_fplsa_jll.jl/releases/download/GAP_pkg_fplsa-v101.20700.0+0/GAP_pkg_fplsa.v101.20700.0.x86_64-apple-darwin.tar.gz"
+[[GAP_pkg_fplsa]]
+arch = "x86_64"
+git-tree-sha1 = "d858c6d66040b600eef5f48aaf919a66524c94fc"
+libc = "glibc"
+os = "linux"
+
+    [[GAP_pkg_fplsa.download]]
+    sha256 = "f74bcb6974905a9f9e2473546739b2a9e6cc2f79982f6449fa3ae540952c00b5"
+    url = "https://github.com/lgoettgens/GAP_pkg_fplsa_jll.jl/releases/download/GAP_pkg_fplsa-v101.20700.0+0/GAP_pkg_fplsa.v101.20700.0.x86_64-linux-gnu.tar.gz"
+[[GAP_pkg_fplsa]]
+arch = "x86_64"
+git-tree-sha1 = "63cea131b510a3017d773ee6efb318f4ebf2f899"
+libc = "musl"
+os = "linux"
+
+    [[GAP_pkg_fplsa.download]]
+    sha256 = "b3523875d7f974ff28b74aac6e6cc6cbc52396efc493c4e121e553525aa76f29"
+    url = "https://github.com/lgoettgens/GAP_pkg_fplsa_jll.jl/releases/download/GAP_pkg_fplsa-v101.20700.0+0/GAP_pkg_fplsa.v101.20700.0.x86_64-linux-musl.tar.gz"
+[[GAP_pkg_fplsa]]
+arch = "x86_64"
+git-tree-sha1 = "a804c1d0254e1b66560a83224c572b8a925aca9e"
+os = "freebsd"
+
+    [[GAP_pkg_fplsa.download]]
+    sha256 = "f47c2bede71151568925cff30dc77df00dba8aec4078c02b8b74804b233fb903"
+    url = "https://github.com/lgoettgens/GAP_pkg_fplsa_jll.jl/releases/download/GAP_pkg_fplsa-v101.20700.0+0/GAP_pkg_fplsa.v101.20700.0.x86_64-unknown-freebsd.tar.gz"
